@@ -27,7 +27,7 @@ export default function Navbar() {
     <nav
       className={`fixed p-5 top-0 w-full transition-opacity duration-500 ease-in-out ${
         isHidden ? "opacity-0" : "opacity-100"
-      } w-full flex items-center justify-between`}
+      } w-full flex items-center justify-between z-50`}
     >
       <div className="">
         <Image
