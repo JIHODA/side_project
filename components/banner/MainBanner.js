@@ -15,7 +15,7 @@ export default function MainBanner({ image }) {
     //   </div>
     // </section>
 
-    <section className="h-dvh md:h-overScreen flex items-center overflow-hidden">
+    <section className="h-svh md:h-overScreen flex items-center overflow-hidden">
       <div className="container flex flex-col-reverse md:flex-row m-auto md:relative max-w-[375px] md:max-w-screen-md xl:max-w-screen-xl">
         <div className=" text-center grid items-center z-10 m-auto pt-10 sm:m-0 md:p-0">
           <TextAnimation
