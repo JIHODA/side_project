@@ -20,7 +20,7 @@ export default function Home() {
         <MainContent
           image={{ image: content_img_top, width: 400, height: 700 }}
           text={
-            "Elit voluptate qui ea nisi reprehenderit ex. Culpa consectetur sit do occaecat reprehenderit id officia culpa sint minim incididunt. Aliqua nostrud eiusmod esse voluptate sunt nisi esse. Ullamco culpa ad ullamco elit aliquip anim dolore id eiusmod reprehenderit. Cupidatat irure culpa nostrud exercitation laborum. Reprehenderit sunt deserunt ipsum nulla magna minim."
+            "Elit voluptate qui ea nisi reprehenderit e. Culpa consectetur sit do occaecat reprehenderit id officia culpa sint minim incididunt. Aliqua nostrud eiusmod esse voluptate sunt nisi esse. Ullamco culpa ad ullamco elit aliquip anim dolore id eiusmod reprehenderit. Cupidatat irure culpa nostrud exercitation laborum. Reprehenderit sunt deserunt ipsum nulla magna minim."
           }
         />
 
